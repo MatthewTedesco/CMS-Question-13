@@ -11,3 +11,8 @@
 */
 
 @import url("../mesmerize/style.css");
+
+/*General background colour*/
+.mesmerize-inner-page .page-content, .mesmerize-inner-page .content, .mesmerize-front-page.mesmerize-content-padding .page-content {
+    background-color: #FFFFFF;
+}
