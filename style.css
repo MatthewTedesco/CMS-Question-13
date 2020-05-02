@@ -48,3 +48,8 @@ body i[class*="fa-"], body span[class*="fa-"] {
 .copyright{
     visibility: hidden;
 }
+
+/*Footer base colour*/
+.footer-content-lists .footer-content {
+  background-color: #333333;
+}
