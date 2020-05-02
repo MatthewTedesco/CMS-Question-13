@@ -28,3 +28,8 @@
 .button.big {
     font-size: 0.95rem;
 }
+
+/*TopBar Modified From Black to Blue*/
+.header-top-bar {
+  background-color: #03A9F4;
+}
