@@ -33,3 +33,8 @@
 .header-top-bar {
   background-color: #03A9F4;
 }
+
+/*Header Arrow Increased in Size and Top Bar Image Linear*/
+body i[class*="fa-"], body span[class*="fa-"] {
+  font: normal normal normal 25px/21px FontAwesome;
+}
