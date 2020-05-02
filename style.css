@@ -53,3 +53,10 @@ body i[class*="fa-"], body span[class*="fa-"] {
 .footer-content-lists .footer-content {
   background-color: #333333;
 }
+
+/*Centerise an image*/
+img, video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
