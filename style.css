@@ -16,3 +16,10 @@
 .mesmerize-inner-page .page-content, .mesmerize-inner-page .content, .mesmerize-front-page.mesmerize-content-padding .page-content {
     background-color: #FFFFFF;
 }
+
+/*Widget title bold*/
+.footer-7 .widgettitle,
+.footer-7 h4 {
+  text-tranform: uppercase;
+  font-weight: bold;
+}
