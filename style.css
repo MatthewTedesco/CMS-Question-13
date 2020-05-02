@@ -43,3 +43,8 @@ body i[class*="fa-"], body span[class*="fa-"] {
 .footer-content-lists a {
     color: #fff;
 }
+
+/*Footer Copyright Statement Eliminated*/
+.copyright{
+    visibility: hidden;
+}
