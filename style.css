@@ -38,3 +38,8 @@
 body i[class*="fa-"], body span[class*="fa-"] {
   font: normal normal normal 25px/21px FontAwesome;
 }
+
+/*Footer text colour*/
+.footer-content-lists a {
+    color: #fff;
+}
