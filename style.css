@@ -23,3 +23,8 @@
   text-tranform: uppercase;
   font-weight: bold;
 }
+
+/*Button Font Size Increased*/
+.button.big {
+    font-size: 0.95rem;
+}
